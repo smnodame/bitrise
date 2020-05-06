@@ -1,0 +1,17 @@
+{
+  "name": "bitrise",
+  "displayName": "bitrise",
+  "expo": {
+    "name": "bitrise",
+    "slug": "bitrise",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
